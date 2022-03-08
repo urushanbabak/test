@@ -1,4 +1,4 @@
-package ir.ac.kntu;
+package ir.c.kntu;
 
 import java.util.Arrays;
 
